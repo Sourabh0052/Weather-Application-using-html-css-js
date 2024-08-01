@@ -1,1 +1,1 @@
-# Weather-Application-using-html-css-js
+# Weather-forcasting-Application
